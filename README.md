@@ -9,6 +9,8 @@ This Jupyter Notebook analyzes stock performance using time series data and vari
 - **Custom Plotting**: Visualizations are generated using `matplotlib`, with specific configurations to ensure consistent sizing across plots (e.g., `figsize 15x10` for plots in sections Q1 to Q3).
 
 ![image](https://github.com/user-attachments/assets/d1db5ce7-868a-4568-bad9-bef489be76f1)
+![image](https://github.com/user-attachments/assets/ccbca9d8-1b80-4893-8906-eff408986ee6)
+
 
 
 ## Technologies Used
